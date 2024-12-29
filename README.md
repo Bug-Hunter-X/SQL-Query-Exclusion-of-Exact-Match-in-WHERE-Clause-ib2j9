@@ -1,0 +1,1 @@
+This repository demonstrates a subtle SQL query error. The original query excludes employees with salaries precisely matching the specified threshold. The solution provides a corrected query that includes these employees.
